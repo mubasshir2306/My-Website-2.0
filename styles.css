@@ -421,6 +421,10 @@ body {
     padding: 20px 20px 40px;
   }
 
+  .skill-text {
+    padding: 0;
+  }
+
   .skill-image {
     width: 200px;
     height: 200px;
