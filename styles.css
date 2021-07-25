@@ -405,6 +405,10 @@ body {
     margin-bottom: 0;
   }
 
+  .about-me-text {
+    width: 75%;
+  }
+
   .intro-image {
     height: 600px;
     width: 600px;
